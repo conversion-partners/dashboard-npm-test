@@ -1,8 +1,8 @@
 {
   "name": "dashboard-npm-test",
   "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "Open this probject in [`atom-typescript`](https://atom.io/packages/atom-typescript). Press F6 to build. And then `npm publish` away.",
+  "main": "dashboard-npm-test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/conversion-partners/dashboard-npm-test/issues"
   },
-  "homepage": "https://github.com/conversion-partners/dashboard-npm-test#readme"
+  "homepage": "https://github.com/conversion-partners/dashboard-npm-test#readme",
+  "gitHead": "472d4031c36f1046a191bde4ad26fa51e36aea98",
+  "readme": "# ts-npm-module\nOpen this probject in [`atom-typescript`](https://atom.io/packages/atom-typescript). Press F6 to build. And then `npm publish` away.\n\nThis project can be consumed flawlessly from the sister project [ts-npm-module-consume](https://github.com/basarat/ts-npm-module-consume)\n",
+  "readmeFilename": "README.md",
+  "_id": "dashboard-npm-test@1.0.1",
+  "_shasum": "3c2c6e5964fdeea0cd281da781df65aa0b5855c1",
+  "_from": "git+https://jessec@github.com/conversion-partners/dashboard-npm-test.git",
+  "_resolved": "git+https://jessec@github.com/conversion-partners/dashboard-npm-test.git#472d4031c36f1046a191bde4ad26fa51e36aea98"
 }
