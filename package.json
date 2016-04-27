@@ -2,7 +2,7 @@
   "name": "dashboard-npm-test",
   "version": "1.0.1",
   "description": "Open this probject in [`atom-typescript`](https://atom.io/packages/atom-typescript). Press F6 to build. And then `npm publish` away.",
-  "main": "dashboard-npm-test.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
